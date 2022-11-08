@@ -47,5 +47,8 @@
     
 }
 #divimage1{
-    
+    border-radius: 100%; 
+    display: inline-block;
+    overflow: hidden; 
+    margin-left: 80px;
 }
