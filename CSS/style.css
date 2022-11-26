@@ -29,7 +29,7 @@
 }
 .isearch:focus{
     width: 160px;
-    border-bottom: 1px solid #cc181e;
+    border-bottom: 3px solid #691c90;
 }
 #imgsearch{
     height: 25px;
