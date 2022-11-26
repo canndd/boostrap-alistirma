@@ -1,5 +1,6 @@
 .navbar{
-    background-color: rgb(213, 216, 216);
+   
+    background: linear-gradient(0deg, rgba(46,140,142,1) 0%, rgba(105,28,144,1) 100%);
 }
 
 .navbarsearch{
