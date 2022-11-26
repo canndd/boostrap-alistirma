@@ -52,3 +52,10 @@
     overflow: hidden; 
     margin-left: 80px;
 }
+#footerr{
+    background-color: #691c90;
+    color: white;
+}
+#footerr li{
+    color: rgb(204, 204, 204);
+}
