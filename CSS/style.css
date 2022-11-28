@@ -60,6 +60,8 @@
     color: rgb(204, 204, 204);
 }
 
+
+/*--------- Mause üzerine geldiğinde yakınlaştır ve 50 px sola hareket ettir  -----------------*/
 .hareket {
     transform: scale(1);
     transition: all 1.3s;
