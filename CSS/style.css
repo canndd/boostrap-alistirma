@@ -30,7 +30,7 @@
 }
 .isearch:focus{
     width: 160px;
-    border-bottom: 3px solid #691c90;
+    border-bottom: 3px solid hsl(293, 36%, 22%);
 }
 #imgsearch{
     height: 25px;
@@ -58,4 +58,17 @@
 }
 #footerr li{
     color: rgb(204, 204, 204);
+}
+
+.hareket {
+    transform: scale(1);
+    transition: all 1.3s;
+    position: relative;
+    left: 0px;
+    opacity: 1;
+}
+.hareket:hover{
+    left: 50px;
+    transform: scale(1.1);
+    opacity: 1;
 }
