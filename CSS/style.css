@@ -30,7 +30,7 @@
 }
 .isearch:focus{
     width: 160px;
-    border-bottom: 3px solid hsl(293, 36%, 22%);
+    border-bottom: 3px solid hsl(0, 0%, 0%);
 }
 #imgsearch{
     height: 25px;
