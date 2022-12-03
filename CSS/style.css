@@ -101,20 +101,20 @@
 }
 .div1{
     background:#e8e8e8;
-      width:290px;
-      height:310px;
+      width:270px;
+      height: 290px;
       display:inline-block;
       border-radius:50px;
       color:#858585;
+      margin: 20px 5px 50px 10px;
+      padding: 15px;
 }
 .div1:hover{
       background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(218,70,252,1) 100%);
       color:#dddddd;
-    
-    
 }
-.div12{
-    margin-left: 40px;
+.div1:hover i{
+    color:rgb(255, 255, 255);
 }
 .fotticon{
     color: black;
@@ -126,3 +126,4 @@
 #footerr li{
     color: rgb(204, 204, 204);
 }
+
