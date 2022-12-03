@@ -17,18 +17,22 @@
 .acilir-menu {
     display: none;
     position: absolute;
-    background-color: rgb(255, 249, 249);
-    min-width: 160px;
+    background-color: rgb(255, 255, 255);
+    min-width: 120px;
+    border-right: 1px double #ffffff;
+    border-left: 1px double #000000;    
 }
 
 .acilir-menu a {
     display: block;
     text-align: left;
     color: black;
+    
 }
 
 .acilir-menu a:hover {
-    color: #691c90;
+    background-color: #691c90;
+    color: rgb(218, 218, 218);
 }
 
 .menu:hover .acilir-menu {
