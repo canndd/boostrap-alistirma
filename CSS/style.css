@@ -120,8 +120,14 @@
     color: black;
 }
 #footerr{
-    background-color: #691c90;
+    background-color: white;
     color: white;
+    
+}
+.footercont{
+    background-color: #691c90;
+    border-radius: 60px;
+    margin-bottom: 25px;
 }
 #footerr li{
     color: rgb(204, 204, 204);
