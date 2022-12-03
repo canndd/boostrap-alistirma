@@ -74,6 +74,11 @@
     transform: scale(1.1);
     opacity: 1;
 }
+.ytycards{
+    margin: 5px;
+}
+
+
 .fotticon{
     color: black;
 }
