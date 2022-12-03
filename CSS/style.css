@@ -52,16 +52,8 @@
     overflow: hidden; 
     margin-left: 80px;
 }
-#footerr{
-    background-color: #691c90;
-    color: white;
-}
-#footerr li{
-    color: rgb(204, 204, 204);
-}
 
-
-/*--------- Mause üzerine geldiğinde yakınlaştır ve 50 px sola hareket ettir  -----------------*/
+/*--------- Mause üzerine geldiğinde yakınlaştır ve 50 px sola hareket ettir START  -----------------*/
 .hareket {
     transform: scale(1);
     transition: all 1.3s;
@@ -74,6 +66,8 @@
     transform: scale(1.1);
     opacity: 1;
 }
+/*--------- END -----------------*/
+
 .ytycards{
     margin: 5px;
 }
@@ -81,4 +75,11 @@
 
 .fotticon{
     color: black;
+}
+#footerr{
+    background-color: #691c90;
+    color: white;
+}
+#footerr li{
+    color: rgb(204, 204, 204);
 }
