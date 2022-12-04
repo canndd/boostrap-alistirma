@@ -116,6 +116,28 @@
 .div1:hover i{
     color:rgb(255, 255, 255);
 }
+.markalar{
+    margin: px;
+    font-family: Georgia, serif;
+font-size: 22px;
+letter-spacing: 0.2px;
+word-spacing: 6px;
+color: #000000;
+font-weight: 500;
+text-decoration: none;
+font-style: italic;
+font-variant: small-caps;
+text-transform: capitalize;
+border-radius: 50px;
+}
+
+
+
+
+
+
+
+
 .fotticon{
     color: black;
 }
