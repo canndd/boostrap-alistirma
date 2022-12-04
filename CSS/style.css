@@ -130,7 +130,13 @@ font-variant: small-caps;
 text-transform: capitalize;
 border-radius: 50px;
 }
-
+.markapic{
+   
+    border-radius: 20%; 
+    display: inline-block;
+    overflow: hidden; 
+    
+}
 
 
 
