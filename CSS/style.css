@@ -114,6 +114,11 @@ nav{
 
 /*--------- END -----------------*/
 
+#yataycardsdiv{
+    background: linear-gradient(#fff,#691c90);
+}
+
+
 .ytycards{
     margin: 5px;
 }
