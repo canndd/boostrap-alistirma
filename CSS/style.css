@@ -5,7 +5,7 @@ nav{
 
 .navbar{
    
-    background: linear-gradient(0deg, rgba(46,140,142,1) -70%, rgba(105,28,144,1) 100%);
+    background: radial-gradient(circle, rgba(68,88,147,1) 0%, rgba(105,28,144,1) 94%);
 }
 
 .navbarsearch{
